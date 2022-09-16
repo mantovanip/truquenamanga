@@ -70,4 +70,4 @@ e ajudamos um ao outro no desenvolvimento🫂;
 <h4 align="center"> 
 ✒️ Autor
 </h4>
-⌨️ com ❤️ por [xpedradax](https://gist.github.com/mantovanip) 😊
+<p align="center"?⌨️ com ❤️ por [xpedradax](https://gist.github.com/mantovanip) 😊</p>
