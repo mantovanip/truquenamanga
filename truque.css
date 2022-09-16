@@ -3,7 +3,7 @@ padding: 5px;}
   
   body {
 
-      background-color: rgb(73, 59, 61);
+      background-color: rgb(63, 63, 63);
   }
   form,
   label {  
@@ -14,7 +14,7 @@ padding: 5px;}
     padding: 9px;
   } 
 a{
-  background-color: rgb(53, 46, 46);
+  background-color: rgb(53, 52, 52);
   color: bisque;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
@@ -22,7 +22,7 @@ a{
   padding: 25px;
   text-decoration: none;
   border-radius: 6px;
-  box-sizing: border-box;
+ 
 }
   .legend {
     color:rgb(125, 150, 155);
