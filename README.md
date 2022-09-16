@@ -1,13 +1,13 @@
  <h1 align="center">Truque na Manga</h1>
 <hr/>
 <p align="center">Projeto de Banco de Dados</p>
-<hr/>
+
 <h1 align="center">
     <a href="https://https://www.mysql.com/">🔗mySql</a>
 </h1>
-<hr/>
+
 <p align="center">🚀 Página de Cadastros para Pedidos na Loja Truqe na Manga</p>
-<hr/>
+
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#Pré-requisitos">Pré-requisitos</a> •
@@ -15,11 +15,11 @@
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#autor">Autor</a>
 </p>
-<hr/>
+
 <h4 align="center"> 
 	🚧  React Select 🚀 Em construção...  🚧
 </h4>
-<hr/>
+
 <h4 align="center">  🚀 Objetivo </h4>
 
 <hr/>
@@ -35,7 +35,7 @@
 <p align="center" >**wampserver (3.3.6-64bit);
 **mySql
 **php
-<hr/>
+
 Usando um servidor na maquina para funcionar, 
 foi usado wampserver(versao 3.3.6-64bit), para integrar no banco de dados mySql (versao 8.0.27)
 </p>
@@ -54,7 +54,7 @@ foi usado wampserver(versao 3.3.6-64bit), para integrar no banco de dados mySql 
 ✒️ Autor
 </h4>
 <p align="center">*Grande Mentor/Dev/Professor Edilson** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/theusdido)</p>
-<hr/>
+
 
 
 <h4 align="center"> 
