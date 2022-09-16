@@ -1,10 +1,8 @@
  <h1 align="center">Truque na Manga</h1>
-<hr/>
+
 <p align="center">Projeto de Banco de Dados</p>
 
-<h1 align="center">
-    <a href="https://https://www.mysql.com/">🔗mySql</a>
-</h1>
+<h1 align="center"> <a href="https://https://www.mysql.com/">🔗mySql</a> </h1>
 
 <p align="center">🚀 Página de Cadastros para Pedidos na Loja Truqe na Manga</p>
 
@@ -22,9 +20,9 @@
 
 <h4 align="center">  🚀 Objetivo </h4>
 
-<hr/>
+
 <p align="center">🚀Criar uma webpage funcional para gerar dados de cadastro para realização de pedidos, integrando o banco de dados mySql..</p>
-<hr/>
+
 
 
 <h4 align="center"> 
