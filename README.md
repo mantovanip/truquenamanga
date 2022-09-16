@@ -67,3 +67,4 @@ e ajudamos um ao outro no desenvolvimento🫂;
 ✒️ Autor
 </h4>
 ⌨️ com ❤️ por [xpedradax](https://github.com/mantovanip) 😊
+theend
