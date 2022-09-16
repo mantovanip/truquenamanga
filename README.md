@@ -14,9 +14,7 @@
  <a href="#autor">Autor</a>
 </p>
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
+
 
 <h4 align="center">  🚀 Objetivo </h4>
 
