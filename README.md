@@ -49,7 +49,7 @@ foi usado wampserver(versao 3.3.6-64bit), para integrar no banco de dados mySql 
 - [MYSQL](https://https://https://www.w3schools.com/sql/default.asp)
 
 <h4 align="center"> 
-✒️ Autor
+✒️ Contribuição
 </h4>
 <p align="center">*Grande Mentor/Dev/Professor Edilson** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/theusdido)</p>
 
@@ -65,7 +65,9 @@ foi usado wampserver(versao 3.3.6-64bit), para integrar no banco de dados mySql 
 * Um agradecimento em especial ao professor Edilson por está nos mentorando nessa jornada, aos colegas de classe que juntos compartilhamos ideias
 e ajudamos um ao outro no desenvolvimento🫂;
 * etc.</p>
-theend.
 
----
+
+<h4 align="center"> 
+✒️ Autor
+</h4>
 ⌨️ com ❤️ por [xpedradax](https://gist.github.com/mantovanip) 😊
