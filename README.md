@@ -2,7 +2,7 @@
 
 <p align="center">Projeto de Banco de Dados</p>
 
-<h1 align="center"> <a href="https://https://www.mysql.com/">🔗mySql</a> </h1>
+
 
 <p align="center">🚀 Página de Cadastros para Pedidos na Loja Truqe na Manga</p>
 
