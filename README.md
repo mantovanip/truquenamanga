@@ -51,9 +51,7 @@ foi usado wampserver(versao 3.3.6-64bit), para integrar no banco de dados mySql 
 <h4 align="center"> 
 ✒️ Contribuição
 </h4>
-*Grande Mentor/Dev/Professor Edilson** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/theusdido)
-
-
+*Grande Mentor/Dev/Professor Edilson** - *Trabalho Inicial* - [theusdido](https://github.com/theusdido)
 
 <h4 align="center"> 
  🎁 Expressões de gratidão
