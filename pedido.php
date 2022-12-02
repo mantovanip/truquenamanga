@@ -1,5 +1,5 @@
 <?php
-    $conexao    = new PDO('mysql:local=localhost;port=3306;dbname=truque_na_manga','root','');
+    $conexao    = new PDO('mysql:local=localhost;port=3308;dbname=truque_na_manga','root','');
 ?>
 <!DOCTYPE html>
 <html lang="en">

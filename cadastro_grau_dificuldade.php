@@ -9,7 +9,7 @@ $tipo_dificuldade = $_GET['tipo_dificuldade'];
  }
 
 
- $conexao = new PDO('mysql:host=localhost;port=3306;dbname=truque_na_manga', 'root', '');
+ $conexao = new PDO('mysql:host=localhost;port=3308;dbname=truque_na_manga', 'root', '');
 
  $sql = "  INSERT INTO grau_dificuldade(tipo_dificuldade) 
     VALUES ('{$tipo_dificuldade}');";

@@ -24,7 +24,7 @@ if(!is_numeric($valor)){
 }
 
 
-$conexao = new PDO('mysql:host=localhost;port=3306;dbname=truque_na_manga','root','');
+$conexao = new PDO('mysql:host=localhost;port=3308;dbname=truque_na_manga','root','');
 
 $sql = "  INSERT INTO produto (nome_produto,valor_produto,tipo_dificuldade) 
      VALUES ('{$produto}','{$valor}','{$tipo_dificuldade}')";
